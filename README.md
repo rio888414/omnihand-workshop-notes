@@ -233,7 +233,11 @@ c:  右钩 300 200
 d:  拇指顶 400 200
     零位   300 120
 ```
-https://github.com/rio888414/omnihand-workshop-notes/issues/1
+
+"拇指顶"这一拍实际跑起来是这样的（拇指撑地、四指卸载）：
+
+![拇指顶起](https://github.com/user-attachments/assets/27ec2b22-7f98-4607-9c35-e7b138b52c5c)
+
 ### 为什么是这几个角度（这是重点）
 
 方案能跑起来，靠的是每个角度的取舍。我把理由一条条写出来，因为这部分最容易被当成"抄来的数字"。
