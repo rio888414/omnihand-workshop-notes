@@ -233,6 +233,8 @@ c:  右钩 300 200
 d:  拇指顶 400 200
     零位   300 120
 ```
+<img width="640" height="922" alt="AGI-h264-editor-compressed-2026-10-19_00-55-44" src="https://github.com/user-attachments/assets/30c87c9a-96e3-4b22-9a28-998adbe71a5d" />
+
 
 ### 为什么是这几个角度（这是重点）
 
