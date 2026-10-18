@@ -234,9 +234,9 @@ d:  拇指顶 400 200
     零位   300 120
 ```
 
-"拇指顶"这一拍实际跑起来是这样的（拇指撑地、四指卸载）：
+![image](https://github.com/rio888414/omnihand-workshop-notes/issues/1)
 
-![拇指顶起](https://github.com/user-attachments/assets/27ec2b22-7f98-4607-9c35-e7b138b52c5c)
+
 
 ### 为什么是这几个角度（这是重点）
 
