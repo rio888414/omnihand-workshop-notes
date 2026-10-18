@@ -234,7 +234,7 @@ d:  拇指顶 400 200
     零位   300 120
 ```
 
-![image](https://github.com/rio888414/omnihand-workshop-notes/issues/1)
+![image](https://github.com/rio888414/omnihand-workshop-notes/blob/master/AGI-h264-editor-compressed-2026-10-19_00-55-44.gif)
 
 
 
